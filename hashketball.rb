@@ -34,7 +34,12 @@ def game_hash
             steals: "",
             {
               player_name: "Mason Plumlee"
-            }
+              number: "",
+              shoe: "",
+              points: "",
+              rebounds: "",
+              assists: "",
+              steals: "",}
           }
       ]
 
