@@ -49,11 +49,11 @@ def game_hash
                 number: "31",
                 shoe: "15",
                 points: "19",
-                rebounds: "",
-                assists: "",
-                steals: "",
-                blocks: ""
-                slam_dunks: "" }
+                rebounds: "2",
+                assists: "2",
+                steals: "4",
+                blocks: "11"
+                slam_dunks: "1" }
           }
       ]
 
