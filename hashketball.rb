@@ -32,6 +32,9 @@ def game_hash
             rebounds: "",
             assists: "",
             steals: "",
+            {
+              player_name: "Mason Plumlee"
+            }
           }
       ]
 
