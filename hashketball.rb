@@ -40,6 +40,15 @@ def game_hash
               rebounds: "",
               assists: "",
               steals: "",}
+              {
+                player_name: "Jason Terry"
+                number: "",
+                shoe: "",
+                points: "",
+                rebounds: "",
+                assists: "",
+                steals: "",
+              }
           }
       ]
 
